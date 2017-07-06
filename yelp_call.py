@@ -1,4 +1,4 @@
-
+from rauth import OAuth1Session
 
 def get_search_params(lat, long, open_now):
     params = {}
